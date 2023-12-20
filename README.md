@@ -326,11 +326,16 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images/homepage-1.jpg)
-![output](./images/produtc-1.jpg)
-![output](./images/produtc-2.jpg)
-![output](./images/people.jpg)
-![output](./images/contact.jpg)
+![homepage-1](https://github.com/arbasil05/product-company-website/assets/144218037/e2cafc50-76f7-4943-bf9b-b41a7c8176ae)
+
+![produtc-1](https://github.com/arbasil05/product-company-website/assets/144218037/3dfc8bde-4db2-4d56-9098-c806d1ca2e1b)
+
+![produtc-2](https://github.com/arbasil05/product-company-website/assets/144218037/d8755a49-e37d-4d1a-82f5-b52948860e4c)
+
+![people](https://github.com/arbasil05/product-company-website/assets/144218037/68871503-c810-4742-a9c0-31a8e500b661)
+
+![contact](https://github.com/arbasil05/product-company-website/assets/144218037/374ec066-55a2-4212-ba02-41f27714179e)
+
 
 ## Result:
 
