@@ -40,14 +40,14 @@ Publish the website in the given URL.
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>EduSoft Private Limited</title>
+    <title>Jabez Private Limited</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">EduSoft Private Limited.</div>
+      <div class="banner">Jabez Private Limited.</div>
       <div class="menu">
         <div class="menuitemselected"><a href="home.html">Home</a></div>
         <div class="menuitem"><a href="products.html">Products</a></div>
@@ -81,26 +81,27 @@ Publish the website in the given URL.
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Abdur Rahman Basil.
+        Copyright &#169; 2021 Jabez Private Limited, Developed by Jabez S.
       </div>
     </div>
   </body>
 </html>
 
+
 ```
-### product.html:
+### products.html:
 ```
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>EduSoft Private Limited</title>
+    <title>Jabez Private Limited</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">EduSoft Private Limited.</div>
+      <div class="banner">Jabez Private Limited.</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
         <div class="menuitemselected">
@@ -201,11 +202,12 @@ Publish the website in the given URL.
           </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Abdur Rahman Basil.
+        Copyright &#169; 2021 Jabez Private Limited, Developed by Abdur Rahman Basil.
       </div>
     </div>
   </body>
 </html>
+
 
 ```
 ### people.html:
@@ -213,14 +215,14 @@ Publish the website in the given URL.
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>EduSoft Private Limited</title>
+    <title>Jabez Private Limited</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">EduSoft Private Limited.</div>
+      <div class="banner">Jabez Private Limited.</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
         <div class="menuitem">
@@ -277,11 +279,12 @@ Publish the website in the given URL.
             </div>
          
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Abdur Rahman Basil.
+        Copyright &#169; 2021 Jabez Private Limited, Developed by Abdur Rahman Basil.
       </div>
     </div>
   </body>
 </html>
+
 
 ```
 ### Contact.html:
@@ -289,14 +292,14 @@ Publish the website in the given URL.
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>EduSoft Private Limited</title>
+    <title>Jabez Private Limited</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">EduSoft Private Limited.</div>
+      <div class="banner">Jabez Private Limited.</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
         <div class="menuitem">
@@ -309,16 +312,17 @@ Publish the website in the given URL.
         <div class="productcontent">    
           <h1>Contact Us</h1>
           <p>Whatsapp - 123456789</p>
-          <p>Intsagram - tally_edusoft</p>
-          <p>Gmail - edusoft_tally@gmail.com</p>
+          <p>Intsagram - tally_jabsoft</p>
+          <p>Gmail - jabez_s@gmail.com</p>
           <p>Address - v.o.c street, kasthuri bai nagar, west tambaram</p>
  
       <div class="footer">
-        Copyright &#169; 2021 EduSoft Private Limited, Developed by Abdur Rahman Basil.
+        Copyright &#169; 2021 Jabez Private Limited, Developed by Abdur Rahman Basil.
       </div>
     </div>
   </body>
 </html>
+
 
 ```
 
@@ -326,16 +330,13 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![homepage-1](https://github.com/arbasil05/product-company-website/assets/144218037/e2cafc50-76f7-4943-bf9b-b41a7c8176ae)
+![homepage pcw](https://github.com/jabezs2005/product-company-website/assets/147473463/2e9efce4-d50b-4f03-b04d-57b934c15e9e)
 
-![produtc-1](https://github.com/arbasil05/product-company-website/assets/144218037/3dfc8bde-4db2-4d56-9098-c806d1ca2e1b)
+![productpage pcw](https://github.com/jabezs2005/product-company-website/assets/147473463/c5f101f7-2404-4921-aef2-8eccc6f22c9a)
 
-![produtc-2](https://github.com/arbasil05/product-company-website/assets/144218037/d8755a49-e37d-4d1a-82f5-b52948860e4c)
+![peoplepage pcw](https://github.com/jabezs2005/product-company-website/assets/147473463/4a322cbc-2ff0-4ab7-9353-d29a6e513c15)
 
-![people](https://github.com/arbasil05/product-company-website/assets/144218037/68871503-c810-4742-a9c0-31a8e500b661)
-
-![contact](https://github.com/arbasil05/product-company-website/assets/144218037/374ec066-55a2-4212-ba02-41f27714179e)
-
+![contactpage pcw](https://github.com/jabezs2005/product-company-website/assets/147473463/4314b4a6-d866-437a-88e8-fbe9b487a5f7)
 
 ## Result:
 
