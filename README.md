@@ -305,7 +305,6 @@ Publish the website in the given URL.
   </body>
 </html>
 ```
-
 ### OUTPUT:
 ## Home Page:
 ![homepage pcw](https://github.com/jabezs2005/product-company-website/assets/147473463/2e9efce4-d50b-4f03-b04d-57b934c15e9e)
