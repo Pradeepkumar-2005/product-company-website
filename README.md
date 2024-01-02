@@ -1,37 +1,26 @@
 # Web Design for a Software Product Company
-
 ## AIM:
-
 To design a static website for a software product company company.
-
 ## DESIGN STEPS:
-
 ### Step 1:
-
 Requirement collection.
 
 ### Step 2:
-
 Creating the layout using HTML and CSS.
 
 ### Step 3:
-
 Updating the sample content.
 
 ### Step 4:
-
 Choose the appropriate style and color scheme.
 
 ### Step 5:
-
 Validate the layout in various browsers.
 
 ### Step 6:
-
 Validate the HTML code.
 
 ### Step 6:
-
 Publish the website in the given URL.
 
 ## PROGRAM :
@@ -86,8 +75,6 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
-
 ```
 ### products.html:
 ```
@@ -207,8 +194,6 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
-
 ```
 ### people.html:
 ```
@@ -219,7 +204,6 @@ Publish the website in the given URL.
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
-
   <body>
     <div class="container">
       <div class="banner">Jabez Private Limited.</div>
@@ -284,8 +268,6 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
-
 ```
 ### Contact.html:
 ```
@@ -322,22 +304,20 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
-
 ```
 
-## OUTPUT:
-
-### Home Page:
-
+### OUTPUT:
+## Home Page:
 ![homepage pcw](https://github.com/jabezs2005/product-company-website/assets/147473463/2e9efce4-d50b-4f03-b04d-57b934c15e9e)
 
+## Product Page:
 ![productpage pcw](https://github.com/jabezs2005/product-company-website/assets/147473463/c5f101f7-2404-4921-aef2-8eccc6f22c9a)
 
+## People Page :
 ![peoplepage pcw](https://github.com/jabezs2005/product-company-website/assets/147473463/4a322cbc-2ff0-4ab7-9353-d29a6e513c15)
 
+## Contact Page :
 ![contactpage pcw](https://github.com/jabezs2005/product-company-website/assets/147473463/4314b4a6-d866-437a-88e8-fbe9b487a5f7)
 
-## Result:
-
+### Result:
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
