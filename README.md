@@ -29,14 +29,14 @@ Publish the website in the given URL.
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Jabez Private Limited</title>
+    <title>Pradeep Private Limited</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">Jabez Private Limited.</div>
+      <div class="banner">Pradeep Private Limited.</div>
       <div class="menu">
         <div class="menuitemselected"><a href="home.html">Home</a></div>
         <div class="menuitem"><a href="products.html">Products</a></div>
@@ -70,7 +70,7 @@ Publish the website in the given URL.
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 Jabez Private Limited, Developed by Jabez S.
+        Copyright &#169; 2021 Pradeep Private Limited, Developed by Pradeep Kumar.
       </div>
     </div>
   </body>
@@ -81,14 +81,14 @@ Publish the website in the given URL.
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Jabez Private Limited</title>
+    <title>Pradeep Private Limited</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">Jabez Private Limited.</div>
+      <div class="banner">Pradeep Private Limited.</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
         <div class="menuitemselected">
@@ -189,7 +189,7 @@ Publish the website in the given URL.
           </div>        
       </div>
       <div class="footer">
-        Copyright &#169; 2021 Jabez Private Limited, Developed by Abdur Rahman Basil.
+        Copyright &#169; 2021 Pradeep Private Limited, Developed by Pradeep Kumar.
       </div>
     </div>
   </body>
@@ -200,13 +200,13 @@ Publish the website in the given URL.
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Jabez Private Limited</title>
+    <title>Pradeep Private Limited</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
   <body>
     <div class="container">
-      <div class="banner">Jabez Private Limited.</div>
+      <div class="banner">Pradeep Private Limited.</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
         <div class="menuitem">
@@ -263,7 +263,7 @@ Publish the website in the given URL.
             </div>
          
       <div class="footer">
-        Copyright &#169; 2021 Jabez Private Limited, Developed by Abdur Rahman Basil.
+        Copyright &#169; 2021 Pradeep Private Limited, Developed by Pradeep Kumar.
       </div>
     </div>
   </body>
@@ -274,14 +274,14 @@ Publish the website in the given URL.
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Jabez Private Limited</title>
+    <title>Pradeep Private Limited</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">Jabez Private Limited.</div>
+      <div class="banner">Pradeep Private Limited.</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
         <div class="menuitem">
@@ -299,7 +299,7 @@ Publish the website in the given URL.
           <p>Address - v.o.c street, kasthuri bai nagar, west tambaram</p>
  
       <div class="footer">
-        Copyright &#169; 2021 Jabez Private Limited, Developed by Abdur Rahman Basil.
+        Copyright &#169; 2021 Pradeep Private Limited, Developed by Pradeep Kumar.
       </div>
     </div>
   </body>
@@ -307,16 +307,15 @@ Publish the website in the given URL.
 ```
 ### OUTPUT:
 ## Home Page:
-![homepage pcw](https://github.com/jabezs2005/product-company-website/assets/147473463/2e9efce4-d50b-4f03-b04d-57b934c15e9e)
+
 
 ## Product Page:
-![productpage pcw](https://github.com/jabezs2005/product-company-website/assets/147473463/c5f101f7-2404-4921-aef2-8eccc6f22c9a)
+
 
 ## People Page :
-![peoplepage pcw](https://github.com/jabezs2005/product-company-website/assets/147473463/4a322cbc-2ff0-4ab7-9353-d29a6e513c15)
 
 ## Contact Page :
-![contactpage pcw](https://github.com/jabezs2005/product-company-website/assets/147473463/4314b4a6-d866-437a-88e8-fbe9b487a5f7)
+
 
 ### Result:
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
