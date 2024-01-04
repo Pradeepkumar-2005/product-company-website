@@ -307,15 +307,16 @@ Publish the website in the given URL.
 ```
 ### OUTPUT:
 ## Home Page:
-
+![Screenshot 2024-01-04 083523](https://github.com/Pradeepkumar-2005/product-company-website/assets/147474038/6a0cbb9c-a21e-4404-9282-42572994db78)
 
 ## Product Page:
-
+![Screenshot 2024-01-04 083618](https://github.com/Pradeepkumar-2005/product-company-website/assets/147474038/078e0955-20ae-4af3-9d26-02fcedb4f28d)
 
 ## People Page :
+![Screenshot 2024-01-04 083632](https://github.com/Pradeepkumar-2005/product-company-website/assets/147474038/a7c06f5f-f5e6-4521-b011-b643d2e83550)
 
 ## Contact Page :
-
+![Screenshot 2024-01-04 083653](https://github.com/Pradeepkumar-2005/product-company-website/assets/147474038/6261b6ef-ee4e-44a9-bb3c-1ed708f469d2)
 
 ### Result:
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
